@@ -1,0 +1,228 @@
+name,work,genre,time,subgenre
+ASSER,Life of King Alfred,biography,893,biography
+BAEDA,Ecclesiastical History,religion,731,religion
+BEN JONSON,Every Man in His Humour,dramatic literature,1598,satirical play
+BEN JONSON,Volpone or The Fox,dramatic literature,1606,satirical play
+BEN JONSON,The Alchemist,dramatic literature,1598,satirical play
+BEN JONSON,Bartholomew Fair,dramatic literature,1598,satirical play
+BEN JONSON,Sejanus,dramatic literature,1603,tragedy
+BEN JONSON,Catiline,dramatic literature,1611,tragedy
+CHRISTOPHER MARLOWE,The Jew of Malta,dramatic literature,1588,dramatic literature
+CHRISTOPHER MARLOWE,Dr Faustus,dramatic literature,1588,dramatic literature
+CHRISTOPHER MARLOWE,Edward the Second,dramatic literature,1588,dramatic literature
+CHRISTOPHER MARLOWE,Tamburlaine,dramatic literature,1588,dramatic literature
+EDMUND SPENSER,The Faerie Queene,poetry,1609,poetry
+EDMUND SPENSER,Complaints,poetry,1590,poetry
+EDMUND SPENSER,Amoretti,poetry,1595,poetry
+EDMUND SPENSER,Epithalamion,poetry,1595,poetry
+EDMUND SPENSER,Astrophel,poetry,1595,poetry
+EDMUND SPENSER,Colin Clouts Come Home Againe,poetry,1595,poetry
+EDMUND SPENSER,Prothalamion,poetry,1596,poetry
+FRANCIS BACON,The Great Instauration,scientific work,1620,scientific work
+FRANCIS BACON,New Method,scientific work,1620,scientific work
+FRANCIS BACON,The New Atlantis,novel,1623,novel
+FRANCIS BACON,Essays,essays,1597,essays
+FRANCIS BACON,The Wisdom of the Ancients,treatise,1609,treatise
+GAWAIN DOUGLAS,Palace of Honour,poetry,1501,poetry
+GAWAIN DOUGLAS,Eneados,translation,1513,translation
+GAWAIN DOUGLAS,Conscience,poetry,1513,poetry
+GAWAIN DOUGLAS,King Hart,poetry,1513,poetry
+GEOFFREY CHAUCER,The Book of the Duchess,peotry,1368,peotry
+GEOFFREY CHAUCER,The House of Fame,peotry,1385,peotry
+JAMES I. OF SCOTLAND.,The King's Quair,autobiography,1406,autobiography
+JOHN BARBOUR.,The Bruce,poetry,1377,poetry
+JOHN FOXE.,The Book of Martyrs,history,1563,history
+JOHN GOWER.,Speculum Meditantis,poetry,1393,poetry
+JOHN WYCLIF.,Wycliffe's Bible,religion,1382,religion
+LAYAMON.,The Brut,peotry,1205,peotry
+RICHARD HOOKER.,Laws of Ecclesiastical Polity,religion,1594,religion
+ORM.,The Ormulum,peotry,1215,peotry
+ROBERT OF BRUNNE.,Chronicle of England,poetry,1303,poetry
+ROBERT OF GLOUCESTER.,Chronicle of England,history,1270,history
+ROGER ASCHAM.,Toxophilus,tutorial,1544,tutorial
+ROGER ASCHAM.,TheScholemastre,treatise,1570,treatise
+SIR DAVID LYNDESAY.,Lyndesay's Dream,allegory,1528,allegory
+SIR JOHN MANDEVILLE.,The Voyage and Travels of Sir John Mandeville,prose,0,prose
+SIR PHILIP SIDNEY.,Arcadia,prose,1580,prose
+SIR PHILIP SIDNEY.,Astrophel and Stella,sonnet,1582,sonnet
+SIR PHILIP SIDNEY.,The Defence of Poesie,literary criticism,1582,literary criticism
+SIR PHILIP SIDNEY.,Arcadia,prose,1580,prose
+SIR PHILIP SIDNEY.,Astrophel and Stella,sonnet,1582,sonnet
+SIR PHILIP SIDNEY.,The Defence of Poesie,literary criticism,1582,literary criticism
+SIR THOMAS MORE.,Utopia,fiction,1516,fiction
+THOMAS HOBBES.,The Leviathan,treatise,1651,treatise
+WILLIAM CAXTON.,The Game and Playe of the Chesse,tutorial,1474,tutorial
+WILLIAM DRUMMOND.,Sonnets,poetry,0,sonnet
+WILLIAM LANGLANDE.,The Vision of Piers Plowman,allegory,0,allegory
+WILLIAM SHAKESPEARE.,Othello,tragedy,1603,tragedy
+WILLIAM SHAKESPEARE.,Hamlet,tragedy,1603,tragedy
+WILLIAM SHAKESPEARE.,As You Like It,comedy,1600,comedy
+WILLIAM SHAKESPEARE.,Cymbeline,comdedy,1594,comdedy
+WILLIAM SHAKESPEARE.,Love's Labour's Lost,comedy,1958,comedy
+WILLIAM SHAKESPEARE.,Measure for Measure,comdedy,1604,comdedy
+WILLIAM SHAKESPEARE.,The Merchant of Venice,comdedy,1597,comdedy
+WILLIAM SHAKESPEARE.,The Merry Wives of Windsor,comdedy,1601,comdedy
+WILLIAM SHAKESPEARE.,A Midsummer Night's Dream,comedy,1594,comedy
+WILLIAM SHAKESPEARE.,Much Ado About Nothing,comedy,1599,comedy
+WILLIAM SHAKESPEARE.,The Taming of the Shrew,comedy,1600,comedy
+WILLIAM SHAKESPEARE.,The Tempest,comedy,1611,comedy
+WILLIAM SHAKESPEARE.,Twelfth Night,comedy,1602,comedy
+WILLIAM SHAKESPEARE.,The Two Gentlemen of Verona,comedy,1623,comedy
+WILLIAM SHAKESPEARE.,The Winter's Tale,comedy,1623,comedy
+WILLIAM SHAKESPEARE.,Henry IV,historical play,1598,historical play
+WILLIAM SHAKESPEARE.,Henry V,historical play,1599,historical play
+WILLIAM SHAKESPEARE.,Henry VIII,historical play,1623,historical play
+WILLIAM SHAKESPEARE.,Richard III,historical play,1591,historical play
+WILLIAM TYNDALE.,New Testament,religion,0,religion
+ALEXANDER POPE.,Essay on Criticism,poetry,1711,poetry
+ALEXANDER POPE.,Rape of the Lock,poetry,1714,poetry
+ALEXANDER POPE.,Dunciad,poetry,1729,poetry
+ALEXANDER POPE.,Essay on Man,poetry,1739,poetry
+DANIEL DEFOE.,Robinson Crusoe,poetry,1719,poetry
+DANIEL DEFOE.,Journal of the Plague,poetry,1722,poetry
+JEREMY TAYLOR.,The Rule and Exercises of Holy Living,religion,1650,religion
+JEREMY TAYLOR.,The Rule and Exercises of Holy Dying,religion,1651,religion
+JOHN BUNYAN.,The Pilgrim's Progress,religion,1678,religion
+JOHN DRYDEN.,Hind and Panther,poetry,1687,poetry
+JOHN DRYDEN.,Annus Mirabilis,poetry,1667,poetry
+JOHN DRYDEN.,Absalom and Achitophel,poetry,1681,poetry
+JOHN DRYDEN.,Hind and Panther,poetry,1687,poetry
+JOHN LOCKE.,Essay concerning the Human Understanding,essay,1690,essay
+JONATHAN SWIFT.,Tale of a Tub,prose,1704,satire prose
+JOSEPH ADDISON.,A Letter from Italy,poetry,1704,poetry
+JOSEPH ADDISON.,Cato,dramatic literature,1713,tragedy
+SAMUEL BUTLER.,Hudibras,poetry,1662,poetry
+SIR RICHARD STEELE.,The Conscious Lovers,dramatic literature,1722,comedy
+SIR THOMAS BROWNE.,Religio Medici,prose,1635,prose
+ADAM SMITH.,Theory of Moral Sentiments,treatise,1759,treatise
+ADAM SMITH.,Inquiry into the Nature and Causes of the Wealth of Nations,political economy,1776,political economy
+CHARLES LAMB.,The Essays of Elia,essay,1823,essay
+CHARLES LAMB.,he Last Essays of Elia,essay,1833,essay
+DAVID HUME.,History of England,history,1754,history
+DR SAMUEL JOHNSON.,London,poetry,1738,poetry
+DR SAMUEL JOHNSON.,The Vanity of Human Wishes,poetry,1749,poetry
+DR SAMUEL JOHNSON.,A Dictionary of the English Language,dictionary,1755,dictionary
+DR SAMUEL JOHNSON.,Rasselas,novel,1759,short novel
+EDMUND BURKE.,Essay on the Sublime and Beautiful,essay,1757,essay
+EDMUND BURKE.,Reflections on the Revolution of France,political theory,1790,political theory
+EDWARD GIBBON.,Decline and Fall of the Roman Empire,history,1776,history
+GEORGE CRABBE.,The Village,poetry,1783,poetry
+GEORGE CRABBE.,Tales of the Hall,poetry,1819,poetry
+HENRY FIELDING.,Pamela,novel,1740,novel
+HENRY FIELDING.,Joseph Andrews,novel,1742,novel
+HENRY FIELDING.,Amelia,novel,1751,novel
+HENRY HALLAM.,View of Europe during the Middle Ages,history,1818,history
+HENRY HALLAM.,Constitutional History of England,history,1827,history
+JANE AUSTEN.,Emma,novel,1815,novel
+JANE AUSTEN.,Pride and Prejudice,novel,1813,novel
+JANE AUSTEN.,Sense and Sensibility,novel,1811,novel
+LORD BYRON (George Gordon).,Hours of Idleness,poetry,1807,poetry
+LORD BYRON (George Gordon).,English Bards and Scotch Reviewers,poetry,1809,poetry
+LORD BYRON (George Gordon).,Lament of Tasso,poetry,1817,poetry
+OLIVER GOLDSMITH.,The Traveller,poetry,1764,poetry
+OLIVER GOLDSMITH.,The Vicar of Wakefield,prose,1766,prose
+OLIVER GOLDSMITH.,The Deserted Village,novel,1770,novel
+OLIVER GOLDSMITH.,She Stoops to Conquer,dramatic literature,1773,comedy
+PERCY BYSSHE SHELLEY.,Queen Mab,poetry,1810,pholosophical poetry
+PERCY BYSSHE SHELLEY.,The Cloud,poetry,1820,lyrical poetry
+PERCY BYSSHE SHELLEY.,Ode to a Skylark,poetry,1820,lyrical poetry
+PERCY BYSSHE SHELLEY.,Ode to the West Wind,poetry,1820,lyrical poetry
+PERCY BYSSHE SHELLEY.,Oedipus Tyrannus,dramatic literature,1829,tragedy
+ROBERT BURNS.,Tam o' Shanter,poetry,1791,poetry
+ROBERT SOUTHEY.,Joan of Arc,poetry,1796,poetry
+ROBERT SOUTHEY.,Thalaba the Destroyer,poetry,1801,poetry
+ROBERT SOUTHEY.,The Curse of Kehama,poetry,1810,poetry
+ROBERT SOUTHEY.,The Holly Tree,poetry,1794,poetry
+ROBERT SOUTHEY.,Life of Nelson,prose,1813,prose
+SAMUEL TAYLOR COLERIDGE.,Rime of the Ancient Mariner,poetry,1798,poetry
+SAMUEL TAYLOR COLERIDGE.,Christabel,poetry,1816,poetry
+SAMUEL TAYLOR COLERIDGE.,The Friend,prose,1812,prose
+SAMUEL TAYLOR COLERIDGE.,Aids to Reflection,prose,1825,prose
+SIR WALTER SCOTT.,The Lay of the Last Minstrel,poetry,1805,narrative poetry
+SIR WALTER SCOTT.,Marmion,poetry,1808,ballad
+SIR WALTER SCOTT.,Lady of the Lake,poetry,1810,poetry
+THOMAS CAMPBELL.,The Pleasures of Hope,survey,1799,survey
+THOMAS CAMPBELL.,poetrys,poetry,1803,poetry
+THOMAS DE QUINCEY.,Lake Reminiscences,poetry,1834,poetry
+THOMAS GRAY.,Ode on a Distant Prospect of Eton College,ode,1747,ode
+THOMAS GRAY.,Elegy Written in a Country Churchyard,meditative poetry,1750,meditative poetry
+THOMAS GRAY.,The Progress of Poesy,ode,1757,ode
+THOMAS MOORE.,Odes and Epistles,odes,1806,odes
+THOMAS MOORE.,Lalla Rookh,poetry,1817,poetry
+THOMAS MOORE.,History ofIreland,history,1827,history
+THOMAS MOORE.,Life of Byron,biography,1830,biography
+THOMAS MOORE.,Irish Melodies,poetry,1834,poetry
+TOBIAS GEORGE SMOLLETT.,Roderick Random,novel,1748,novel
+TOBIAS GEORGE SMOLLETT.,Humphrey Clinker,novel,1771,novel
+TOBIAS GEORGE SMOLLETT.,An Essay on the External Use of Water,prose,1752,prose
+TOBIAS GEORGE SMOLLETT.,Peregrine Pickle,novel,1751,novel
+WALTER SAVAGE LANDOR.,Cowslips,poetry,1798,poetry
+WALTER SAVAGE LANDOR.,Count Julian,tragedy,1812,tragedy
+WALTER SAVAGE LANDOR.,Dry Sticks Faggoted,poetry,1858,poetry
+WALTER SCOTT.,Lay of the Last Minstrel,poetry,1805,poetry
+WALTER SCOTT.,Marmion,poetry,1808,ballad
+WALTER SCOTT.,Waverley,novel,1814,novel
+WALTER SCOTT.,Old Mortality,novel,1816,historical romance
+WALTER SCOTT.,Ivanhoe,romance,1819,historical romance
+WALTER SCOTT.,Kenilworth,novel,1821,historical novel
+WILLIAM BLAKE.,Songs of Innocence,poetry,1787,poetry
+WILLIAM COLLINS.,Ode on the Death of Thomson,poetry,1749,poetry
+WILLIAM COWPER.,Table Talk,poetry,1782,poetry
+WILLIAM COWPER.,John Gilpin,poetry,1785,poetry
+WILLIAM COWPER.,Olney Hymns,poetry,1779,poetry
+WILLIAM COWPER.,The Task,poetry,1785,poetry
+WILLIAM WORDSWORTH.,Lyrical Ballads,poetry,1798,poetry
+WILLIAM WORDSWORTH.,The Excursion,poetry,1814,poetry
+WILLIAM WORDSWORTH.,Yarrow Revisited,poetry,1835,poetry
+WILLIAM WORDSWORTH.,The Prelude,poetry,1850,poetry
+WILLIAM WORDSWORTH.,Lines Composed a Few Miles Above Tintern Abbey,poetry,1798,poetry
+CHARLES DICKENS.,Sketches by Boz,novel,1836,novel
+CHARLES DICKENS.,The Pickwick Papers,novel,1837,novel
+CHARLES DICKENS.,Oliver Twist,novel,1838,novel
+CHARLES DICKENS.,Great Expectations,novel,1868,novel
+ELIZABETH B. BARRETT.,Prometheus Bound,translation,1833,translation
+ELIZABETH B. BARRETT.,Aurora Leigh,novel,1856,novel
+GEORGE ELIOT.,Scenes of Clerical Life,novel,1858,novel
+GEORGE ELIOT.,Adam Bede,novel,1859,novel
+GEORGE ELIOT.,Daniel Deronda,novel,1876,novel
+GEORGE ELIOT.,Spanish Gypsy,novel,1868,novel
+GEORGE ELIOT.,Legend of Jubal,novel,1874,novel
+HENRY W. LONGFELLOW.,Hyperion,novel,1839,novel
+HENRY W. LONGFELLOW.,Voices of the Night,poetry,1841,poetry
+HENRY W. LONGFELLOW.,Evangeline,poetry,1848,poetry
+HENRY W. LONGFELLOW.,Hiawatha,poetry,1855,poetry
+HENRY W. LONGFELLOW.,Aftermath,poetry,1873,poetry
+JOHN KEATS.,Endymion,poetry,1818,poetry
+JOHN KEATS.,Hyperion,epic,1820,epic
+JOHN KEATS.,Isabella,poetry,1817,poetry
+JOHN KEATS.,Lamia,poetry,1819,poetry
+JOHN KEATS.,Ode on a Grecian Urn,poetry,1820,poetry
+JOHN KEATS.,Ode to Psyche,poetry,1820,poetry
+JOHN KEATS.,Ode to a Nightingale,poetry,1820,poetry
+JOHN KEATS.,On Indolence,poetry,1819,poetry
+JOHN RUSKIN.,Modern Painters,thesis,1843,thesis
+JOHN RUSKIN.,The Stones of Venice,thesis,1851,thesis
+JOHN RUSKIN.,The Queen of the Air,thesis,1869,thesis
+JOHN RUSKIN.,An Autobiography,autobiography,1885,autobiography
+JOHN STUART MILL.,System of Logic,thesis,1843,thesis
+JOHN STUART MILL.,Principles of Political Economy,thesis,1848,thesis
+JOHN STUART MILL.,Essay on Liberty,thesis,1858,thesis
+JOHN STUART MILL.,Autobiography,autobiography,1873,autobiography
+LORD LYTTON (Edward Bulwer).,Ismael and Other poetrys,poetry,1825,poetry
+LORD LYTTON (Edward Bulwer).,Eugene Aram,tale,1831,tale
+LORD LYTTON (Edward Bulwer).,Last Days of Pompeii,novel,1834,novel
+LORD LYTTON (Edward Bulwer).,The Caxtons,novel,1849,novel
+LORD LYTTON (Edward Bulwer).,My Novel,novel,1853,novel
+LORD MACAULAY (Thomas Babington).,Milton,essay,,essay
+LORD MACAULAY (Thomas Babington).,History of England,history,1849,history
+LORD TENNYSON or Alfred Tennyson.,Crossing the Bar,poetry,1889,poetry
+LORD TENNYSON or Alfred Tennyson.,In Memoriam,poetry,1850,poetry
+LORD TENNYSON or Alfred Tennyson.,Maud,poetry,1855,poetry
+LORD TENNYSON or Alfred Tennyson.,Idylls of the King,poetry,1859,poetry
+LORD TENNYSON or Alfred Tennyson.,Demeter and Other poetrys,poetry,1889,poetry
+ROBERT BROWNING.,Pauline,poetry,1833,poetry
+ROBERT BROWNING.,Paracelsus,poetry,1836,poetry
+ROBERT BROWNING.,The Ring and the Book,poetry,1869,poetry
+THOMAS CARLYLE.,Past and Present,prose,1843,prose
+WILLIAM MAKEPEACE THACKERAY.,Vanity Fair,novel,1847,novel
+WILLIAM MAKEPEACE THACKERAY.,The Virginians,novel,1857,novel
